@@ -12,7 +12,7 @@ title                    : "Yunan YANG / Research Portfolio"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : "https://Yunan.Y.github.io/"
+url                      : https://yunan613.github.io/Yunan.Y.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Yunan.Y.github.io"
 
