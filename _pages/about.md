@@ -8,18 +8,15 @@ redirect_from:
 ---
 Date: 2024-07-12
 
-I am currently a Visiting Scholar at [School of Design](https://designschool.sustech.edu.cn/cn), [The Southern University of Science and Technology](https://www.sustech.edu.cn/). My research interest includes improving the human interactice experience with design, technologies and urban space by measuring visual perception, spatial behavior and emotional well-being.
-I am very fortunate to be advised by [Prof. Mirna Zordan](https://designschool.sustech.edu.cn/about/team/faculty/544.html) of [Future Spaces Vision Lab](https://www.mirnazordan.com/) from [School of Design](https://designschool.sustech.edu.cn/cn), The Southern University of Science and Technology. I was advised by [Prof. Bin Jiang](https://www.arch.hku.hk/staff/dla/jiang-bin/) of [Urban Environment and Human Health Lab](https://uehh.hku.hk/) from [Department of Architecture](https://www.arch.hku.hk/), The University of Hongkong.
+I am currently a Visiting Scholar at [School of Design](https://designschool.sustech.edu.cn/cn), [Southern University of Science and Technology](https://www.sustech.edu.cn/). My research focuses on enhancing human interactions with design, technologies, and urban spaces by assessing visual perception, spatial behavior, and emotional well-being. 
+I am very fortunate to be advised by [Prof. Mirna Zordan](https://designschool.sustech.edu.cn/about/team/faculty/544.html) of [Future Spaces Vision Lab](https://www.mirnazordan.com/) from School of Design at Southern University of Science and Technology. I was advised by [Prof. Bin Jiang](https://www.arch.hku.hk/staff/dla/jiang-bin/) of [Urban Environment and Human Health Lab](https://uehh.hku.hk/) from [Department of Architecture](https://www.arch.hku.hk/), The University of Hongkong.
 
 You can find my CV here: [Yunan's Curriculum Vitae](../assets/CV_Yunan_Yang.pdf).
 
-[Email](mailto:yyn613125@gmail.com) / [Github](https://github.com/yunan613/yunan613) / 
-————————————————
+[Email](mailto:yyn613125@gmail.com) / [Github](https://github.com/yunan613/yunan613) / [Linkedin](https://www.linkedin.com/feed/)
 
-                            版权声明：本文为博主原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接和本声明。
-                        
-原文链接：https://blog.csdn.net/qd1813100174/article/details/128604858
 
+                           
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
