@@ -21,7 +21,7 @@ repository               : "Yunan.Y.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "professional photo.png"
+  avatar           : "images/professional photo.png"
   name             : "Yunan YANG"
   pronouns         : # example: "she/her"  
   bio              : "Many believe in design!"
