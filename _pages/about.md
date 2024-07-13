@@ -8,12 +8,12 @@ redirect_from:
 ---
 Date: 2024-07-12
 
-I am currently a Visiting Scholar at [School of Design](https://designschool.sustech.edu.cn/cn), [The Southern University of Science and Technology](https://www.sustech.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+I am currently a Visiting Scholar at [School of Design](https://designschool.sustech.edu.cn/cn), [The Southern University of Science and Technology](https://www.sustech.edu.cn/). My research interest includes improving the human interactice experience with design, technologies and urban space by measuring visual perception, spatial behavior and emotional well-being.
+I am very fortunate to be advised by [Prof. Mirna Zordan](https://designschool.sustech.edu.cn/about/team/faculty/544.html) of [Future Spaces Vision Lab](https://www.mirnazordan.com/) from [School of Design](https://designschool.sustech.edu.cn/cn), The Southern University of Science and Technology. I was advised by [Prof. Bin Jiang](https://www.arch.hku.hk/staff/dla/jiang-bin/) of [Urban Environment and Human Health Lab](https://uehh.hku.hk/) from [Department of Architecture](https://www.arch.hku.hk/), The University of Hongkong.
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [Yunan's Curriculum Vitae](../assets/CV_Yunan_Yang.pdf).
 
-[Email](mailto:XX@stu.pku.edu.cn) / [Github](https://github.com/QiuDi233) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
+[Email](mailto:yyn613125@gmail.com) / [Github](https://github.com/yunan613/yunan613) / 
 ————————————————
 
                             版权声明：本文为博主原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接和本声明。
