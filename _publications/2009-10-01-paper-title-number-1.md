@@ -8,7 +8,7 @@ date: 2024-06
 venue: 'Changing Cities VI: Spatial, Design, Landscape, Heritage and Socio-Economic
 dimensions'
 slidesurl: 'https://uthnoc-my.sharepoint.com/personal/umlab_o365_uth_gr/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fumlab%5Fo365%5Futh%5Fgr%2FDocuments%2FCCVI%5F2024%2FCCVI%5F2024%5FE%2Dbooks%2FCCVI%5F2024%5FBOOK%20of%20ABSTRACTS%5FNEW%2Epdf&parent=%2Fpersonal%2Fumlab%5Fo365%5Futh%5Fgr%2FDocuments%2FCCVI%5F2024%2FCCVI%5F2024%5FE%2Dbooks'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'http://academicpages.github.io/files/YYang_CCVI full paper_latest version.pdf'
 citation: 'Yang, Y., Zordan, M. (2024). Exploring Fractal Dimensions in Shenzhen’s Urban Villages: Natural Patterns for Stress
 Reduction in High-Density Areas. Changing Cities VI: Spatial, Design, Landscape, Heritage and Socio-Economic
 dimensions, Rhodes, Greece, June 2024.'
