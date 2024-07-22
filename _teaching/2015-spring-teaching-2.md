@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching assistant. Urban Anthropology and Anthropology Theory Seminar."
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: " The Department of Social Science, Fudan University."
+date: Spring Semster 2023 
+location: "Shanghai, China"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
