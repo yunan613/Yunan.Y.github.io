@@ -1,11 +1,10 @@
 ---
-title: "Teaching experience 1"
+title: "Invited Lecturer. Environmental Design(DS326). "
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "The School of Design, Southern University of Science and Technology."
+date: 2024-03-21
+location: "Shenzhen, China"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
