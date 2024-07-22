@@ -4,7 +4,7 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
 venue: " The Department of Social Science, Fudan University."
-date: Spring Semster 2023 
+date: 2023-03-01 
 location: "Shanghai, China"
 ---
 
