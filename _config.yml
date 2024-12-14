@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yunan YANG / Research Portfolio"
+title                    : "Yunan Yang / Research Portfolio"
 title_separator          : "-"
-name                     : &name "Yunan YANG"
-description              : &description "Visting scholar and research assistant at the University of Hongkong"
+name                     : &name "Yunan Yang"
+description              : &description "I am a visting scholar and research assistant at the University of Hongkong"
 url                      : "https://yunan613.github.io/Yunan.Y.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Yunan.Y.github.io"
@@ -23,8 +23,7 @@ author:
   # Biographic information
   avatar           : "professional photo1.png"
   name             : "Yunan YANG"
-  pronouns         : # example: "she/her"  
-  bio              : "Many believe in design!"
+  pronouns         : "she/her"  
   location         : "Shenzhen, Hongkong"
   employer         : "Southern University of Science and Technology"
   uri              : # URL
