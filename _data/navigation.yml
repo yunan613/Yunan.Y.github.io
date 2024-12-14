@@ -1,15 +1,15 @@
 # main links links
 main:
+  - title: "Projects"
+    url: /projects/
+  
   - title: "Publications"
     url: /publications/
 
   - title: "Conference and talks"
     url: /conference and talks/    
 
-  - title: "Teaching"
+  - title: "Exhibitions"
     url: /teaching/    
-    
-  - title: "Industry experience and community involvement"
-    url: /industry experience and community involvement/
     
 
